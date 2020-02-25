@@ -1,4 +1,4 @@
-FROM docker.io/openjdk:8-jdk-alpine
+FROM openjdk:8-jdk-alpine
 
 #https://github.com/xordiv/docker-alpine-cron
 #https://hub.docker.com/r/xordiv/docker-alpine-cron 
